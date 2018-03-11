@@ -1,0 +1,1 @@
+floyd run --data yugrocks9/datasets/seq2seq_data/1:/data --data grainpad16/datasets/weights/2:/weights "python train_model.py"
